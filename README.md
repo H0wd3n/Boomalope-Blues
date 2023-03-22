@@ -40,10 +40,10 @@ This step downloads the database files from Steam Rimpy needs to sort and manage
 - After that, there should be a little refresh icon in Rimpy blinking. If you click that it will refresh Rimpy and the mod Performance Fish should show up in the left column as a local mod. ![Performance Mod](https://user-images.githubusercontent.com/75699296/226827429-390bd17a-f5f1-4a8d-970c-02dafc37ccf7.png) Don't do anything with it.
 
 ## Downloading the rest of the mods
-### Go to [this Steam workshop collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2950431243) and click subscribe to all. This will download the rest of the mods through steam. Once that is finished you can head to the next step.
+### Go to [this Steam workshop collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2950431243) and click subscribe to all. This will download the rest of the mods through steam. Once that is finished, you can head to the next step.
 
 ## Installing the list 
-- Now after all the mods are downloaded through steam refresh Rimpy again and then go to the [releases tab](https://github.com/H0wd3n/Boomalope-Blues/releases/tag/Boom) and download the Boomalope.BLues.zip file and extract the zip to your desktop.
+- Now, after all the mods are downloaded through steam refresh Rimpy again and then go to the [releases tab](https://github.com/H0wd3n/Boomalope-Blues/releases/tag/Boom) and download the Boomalope.BLues.zip file and extract the zip to your desktop.
 - Once you have done that head back over to Rimpy once again and find the button named import list. Click it and on the windows explorer popup go to your desktop and make sure you have the Boomalope Blues.xml file selected and then click open.![boom xml](https://user-images.githubusercontent.com/75699296/226829248-b5c53f66-00db-4e1f-98b0-9bf58a9fafa7.png)
 - After you do that Rimpy should have imported the modlist to the right column.
 ### Now click save to save the modlist to your game. You're not done yet though!
