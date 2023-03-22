@@ -1,4 +1,4 @@
-· [Requirements](https://github.com/H0wd3n/Boomalope-Blues/blob/main/Requirements.md) - [Install Instructions](https://github.com/H0wd3n/Boomalope-Blues/blob/main/Install-Instructions.md) - [Readme](https://github.com/H0wd3n/Boomalope-Blues/blob/main/README.md) · [Changelog](https://github.com/H0wd3n/Boomalope-Blues/blob/main/changelog.md)
+· [Requirements](https://github.com/H0wd3n/Boomalope-Blues/blob/main/Requirements.md) - [Install Instructions](https://github.com/H0wd3n/Boomalope-Blues/blob/main/Install-Instructions.md) - [Readme](https://github.com/H0wd3n/Boomalope-Blues/blob/main/README.md) - [Changelog](https://github.com/H0wd3n/Boomalope-Blues/blob/main/changelog.md) ·
 # Install Instructions
 ## The first step is of course make sure you have rimworld installed through Steam and make sure any mods you already have are disabled.
 - After that right click the game on steam, go to properties -> local files and verify integrety of game files to make sure rimworld is installed correctly.
