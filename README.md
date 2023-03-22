@@ -1,6 +1,6 @@
 # Boomalope Blues
 ## Current Version: 1.0
-· [Requirements](https://github.com/H0wd3n/Boomalope-Blues/blob/main/Requirements.md) - [Install Instructions](https://github.com/H0wd3n/Boomalope-Blues/blob/main/Install-Instructions.md) - [Readme](https://github.com/H0wd3n/Boomalope-Blues/blob/main/README.md) · 
+· [Requirements](https://github.com/H0wd3n/Boomalope-Blues/blob/main/Requirements.md) - [Install Instructions](https://github.com/H0wd3n/Boomalope-Blues/blob/main/Install-Instructions.md) - [Readme](https://github.com/H0wd3n/Boomalope-Blues/blob/main/README.md) · [Changelog](https://github.com/H0wd3n/Boomalope-Blues/blob/main/changelog.md)
 
 ![BB](https://user-images.githubusercontent.com/75699296/227034836-9c82db9c-cf2b-439e-bd17-44eb2a3317e7.png)
 
