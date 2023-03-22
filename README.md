@@ -1,6 +1,6 @@
 # Boomalope Blues
 ## Current Version: 1.0
-· [Install Instructions](https://github.com/H0wd3n/Boomalope-Blues/blob/main/Install-Instructions.md) - Mods you should know about - 
+· [Requirements](https://github.com/H0wd3n/Boomalope-Blues/blob/main/Requirements.md) - [Install Instructions](https://github.com/H0wd3n/Boomalope-Blues/blob/main/Install-Instructions.md)
 
 ![Boomalope Blues](https://user-images.githubusercontent.com/75699296/226787057-fc0180e7-78bb-4ac9-b6db-7b125cd84b7b.png)
 
