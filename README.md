@@ -28,7 +28,7 @@ This step downloads the database files from Steam Rimpy needs to sort and manage
 ## Using Rimpy
 - Now from the folder you extracted Rimpy find the exe named Rimpy.exe and launch it. (I recommend creating a shortcut wherever you prefer to launch it quickly)
 ![Rimpy exe](https://user-images.githubusercontent.com/75699296/226822471-b74a314d-3888-4cd6-ab47-405b887f5e88.png)
-### Once it is open it will look like this. Do not worry about any errors currently.(Depending if you have any mods already or not it may differ slightly from my install)
+### Once it is open it will look like this. Do not worry about any errors currently. (Depending if you have any mods already or not it may differ slightly from my install)
 ![Rimpy itself](https://user-images.githubusercontent.com/75699296/226822946-32f6978f-1a32-4c20-a88d-320716e3531e.png)
 ### First at the top make sure Rimpy knows where your game is installed. The autodetect button should work If not you can set it manually by clicking the three dots to the right
 ![Rimpy itself](https://user-images.githubusercontent.com/75699296/226823367-6b1c3887-0482-4c29-b512-72bf408c2eb1.png)
