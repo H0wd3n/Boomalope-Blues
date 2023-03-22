@@ -21,7 +21,7 @@ After that right click the game on steam, go to properties -> local files and ve
 ![Rimpy extract](https://user-images.githubusercontent.com/75699296/226816889-590cbe12-3d38-4630-85db-f1864b561ab1.png)
 ## Subscribing to Rimpy on Steam
 - Go to this [link](https://steamcommunity.com/sharedfiles/filedetails/?id=1847679158&searchtext=rimpy) and click subscribe like any other workshop mod on Steam.
-This step downloads the database files from steam Rimpy needs to sort and manage the mods correctly.
+This step downloads the database files from Steam Rimpy needs to sort and manage the mods correctly.
 - After the Rimpy database files are done downloading through Steam launch Rimworld. Once you are at the main menu close the game.
 ### DO NOT ENABLE THIS MOD IN RIMWORLD. KEEP IT DISABLED!
 
@@ -46,5 +46,13 @@ This step downloads the database files from steam Rimpy needs to sort and manage
 - Now after all the mods are downloaded through steam refresh Rimpy again and then go to the [releases tab](https://github.com/H0wd3n/Boomalope-Blues/releases/tag/Boom) and download the Boomalope.BLues.zip file and extract the zip to your desktop.
 - Once you have done that head back over to Rimpy once again and find the button named import list. Click it and on the windows explorer popup go to your desktop and make sure you have the Boomalope Blues.xml file selected and then click open.![boom xml](https://user-images.githubusercontent.com/75699296/226829248-b5c53f66-00db-4e1f-98b0-9bf58a9fafa7.png)
 - After you do that Rimpy should have imported the modlist to the right column.
-- Now click save to save the modlist to your game. You're not done yet though!
+### Now click save to save the modlist to your game. You're not done yet though!
 ## Converting Textures to .dds
+### Now this part can take some time depending on your hardware.
+- On the right side of Rimpy there should be a button named Optimze Tex. When you click it a new window should pop up like this
+![optimze tex](https://user-images.githubusercontent.com/75699296/226830384-3e4e1676-385f-4fa6-af4d-a4bded84d513.png)
+### At the top make sure you read the Warming in red.
+### Next click select active (or select all if you wish to convert every mod you have isntalled that isn't part of this list) and then select the tab that says "BC7 Texeconv Compressor (GPU, high quality)". Once that is selected click convert textures. As I mentioned before this process can take time. So be patient and let iT finish.
+- Once it has finished you will see a box that says Textures were successfully converted. Click OK and close out that window.
+
+- 
