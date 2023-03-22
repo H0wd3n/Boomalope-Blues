@@ -4,7 +4,7 @@
 - After that right click the game on steam, go to properties -> local files and verify integrety of game files to make sure rimworld is installed correctly.
 
 ## Downloading the Rimworld mod manager called Rimpy. 
-- This step is non-negotiable as it is how I mod Rimworld and it provides a way to edit your modlist externally without loading the game every time you make a change and with a nice interface, allows you to convert textures from mods to the .dds format which the game has a better time loading, save modlists incase you want to back them up and have multiple lists, and the most important part is sorting the mod load order efficiently with one button.
+- This step is non-negotiable as it is how I mod Rimworld and it provides a way to edit your modlist externally without loading the game every time you make a change, has a nice interface, allows you to convert textures from mods to the .dds format which the game has a better time loading, save modlists incase you want to back them up and have multiple lists, and the most important part is sorting the mod load order efficiently with one button.
 
 ## Installing Rimpy
 - You can download it [here](https://github.com/rimpy-custom/RimPy/releases/tag/1.2.6.28). Make sure you grab the windows version.
