@@ -17,7 +17,7 @@
 - You can download it [here](https://github.com/rimpy-custom/RimPy/releases/tag/1.2.6.28). Make sure you grab the windows version.
 ![Rimpy download](https://user-images.githubusercontent.com/75699296/226817452-48b1deb1-14ff-405c-a3a5-ce15321bc7da.png)
 
-- Once you have it downloaded make a folder in a place of your choosing and extract the contents using 7zip or whatever other program you use for zip files. You can delete the original zip after extracting if you wish.
+### Once you have it downloaded make a folder in a place of your choosing and extract the contents using 7zip or whatever other program you use for zip files. You can delete the original zip after extracting if you wish.
 ![Rimpy extract](https://user-images.githubusercontent.com/75699296/226816889-590cbe12-3d38-4630-85db-f1864b561ab1.png)
 ## Subscribing to Rimpy on Steam
 - Go to this [link](https://steamcommunity.com/sharedfiles/filedetails/?id=1847679158&searchtext=rimpy) and click subscribe like any other workshop mod on Steam.
