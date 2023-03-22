@@ -53,7 +53,7 @@ This step downloads the database files from Steam Rimpy needs to sort and manage
 ![optimze tex](https://user-images.githubusercontent.com/75699296/226830384-3e4e1676-385f-4fa6-af4d-a4bded84d513.png)
 ### At the top make sure you read the Warning in red.
 - Next click select active (or select all if you wish to convert every mod you have isntalled that isn't part of this list) and then select the tab that says "BC7 Texeconv Compressor (GPU, high quality)". Once that is selected, click convert textures. As I mentioned before this process can take time, so be patient and let it finish.
-- Once it has finished you will see a box that says Textures were successfully converted. Click OK and close out that window.
+- Once it has finished you will see a box that says "Textures were successfully converted". Click OK and close out that window.
 - Click the blinking refresh symbol once again and then click save.
 
 ## Installing the mod's config files
