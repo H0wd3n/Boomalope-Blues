@@ -58,6 +58,6 @@ This step downloads the database files from Steam Rimpy needs to sort and manage
 
 ## Installing the mod's config files
 - Last step! Head back over to the [release tab](https://github.com/H0wd3n/Boomalope-Blues/releases/tag/Boom) again and download Configs.zip
-### WARNING IF YOU HAVE ANY OF THESE MODS DOWNLOADED ALREADY AND HAVE EDITED THE MODS SETTINGS IN-GAME THIS WILL OVERRIDE THOSE SETTINGS. SKIP THE MODS YOU ALREADY HAVE OR BACK UP THE XML FILES!
-- Now in Rimpy at the top left find the button named Config Folder and drag all the .xml files in the zip you just downloaded there. After that click save once again in Rimpy.
-##  Congrats! you have installed the modlist and everything is finished. I hope you enjoy the it!
+### WARNING!! IF YOU HAVE ANY OF THESE MODS DOWNLOADED ALREADY AND HAVE EDITED THE MODS SETTINGS IN-GAME THIS WILL OVERRIDE THOSE SETTINGS. SKIP THE MODS YOU ALREADY HAVE OR BACK UP THE XML FILES!
+- Now, in Rimpy at the top left find the button named Config Folder and drag all the .xml files in the zip you just downloaded there. After that click save once again in Rimpy.
+##  Congrats! You have installed the modlist and everything is finished. I hope you enjoy the it!
