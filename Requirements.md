@@ -1,3 +1,4 @@
+· [Requirements](https://github.com/H0wd3n/Boomalope-Blues/blob/main/Requirements.md) - [Install Instructions](https://github.com/H0wd3n/Boomalope-Blues/blob/main/Install-Instructions.md) - [Readme](https://github.com/H0wd3n/Boomalope-Blues/blob/main/README.md) · 
 # Requirements
  - First off you need to own Rimworld on Steam and preferably all the dlc's (Royalty, Ideology, and Biotech).
  - If you can run Rimworld fine vanilla or with mods you already have without any issues, then you should be ok hardware wise.
