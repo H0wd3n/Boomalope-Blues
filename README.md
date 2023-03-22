@@ -14,7 +14,7 @@ After that right click the game on steam, go to properties -> local files and ve
 - This step is non-negotiable as it is how I mod Rimworld and it provides a way to edit your modlist externally without loading the game every time you make a change and with a nice interface, allows you to convert textures from mods to the .dds format which the game has a better time loading, save modlists incase you want to back them up and have multiple lists, and the most important part is sorting the mod load order efficiently with one button.
 
 ## Installing Rimpy
-- You can download it [here]([https://github.com/rimpy-custom/RimPy/releases](https://github.com/rimpy-custom/RimPy/releases/tag/1.2.6.28). Make sure you grab the windows version.
+- You can download it [here](https://github.com/rimpy-custom/RimPy/releases/tag/1.2.6.28). Make sure you grab the windows version.
 ![Rimpy download](https://user-images.githubusercontent.com/75699296/226817452-48b1deb1-14ff-405c-a3a5-ce15321bc7da.png)
 
 - Once you have it downloaded make a folder in a place of your choosing and extract the contents using 7zip or whatever other program you use for zip files. You can delete the original zip after extracting if you wish.
