@@ -16,7 +16,7 @@
 - Go to this [link](https://steamcommunity.com/sharedfiles/filedetails/?id=1847679158&searchtext=rimpy) and click subscribe like any other workshop mod on Steam.
 This step downloads the database files from Steam Rimpy needs to sort and manage the mods correctly.
 - After the Rimpy database files are done downloading through Steam launch Rimworld. Once you are at the main menu, close the game.
-### DO NOT ENABLE THIS MOD IN RIMWORLD. KEEP IT DISABLED!
+### Do not enable this mod in Rimworld. Keep it disabled!
 
 ## Using Rimpy
 - Now from the folder you extracted Rimpy find the exe named Rimpy.exe and launch it. (I recommend creating a shortcut wherever you prefer to launch it quickly)
@@ -26,7 +26,7 @@ This step downloads the database files from Steam Rimpy needs to sort and manage
 ### First, at the top make sure Rimpy knows where your game is installed. The autodetect button should work. If not you can set it manually by clicking the three dots to the right.
 ![Rimpy itself](https://user-images.githubusercontent.com/75699296/226823367-6b1c3887-0482-4c29-b512-72bf408c2eb1.png)
 
-## Installing Performance Fish - DO NOT GO TO THIS DISCORD TO REPORT ANY ISSUES WITH THIS LIST OR MODS! YOU ARE ONLY JOINING TO DOWNLOAD THIS MOD!
+## Installing Performance Fish - Do not go to this discord to report any issues with this list or mods! You are only joining to download this mod!
 ### Next step is to grab a wonderful mod named Performance fish which you can get from joining this [discord](https://discord.gg/699XPDwt8U) and going to this post [here](https://discord.com/channels/241677926855081984/917207536745218068/1035304227368599652) after joining the server.
 ![Performance download](https://user-images.githubusercontent.com/75699296/226826506-30e655f8-1bc6-4d62-8736-26cc425ba60b.png)
 - Once you have that downloaded, head back over to Rimpy and click the local mods button at the top left and then extract the Performance Fish.zip mod there
@@ -39,6 +39,10 @@ This step downloads the database files from Steam Rimpy needs to sort and manage
 - Now, after all the mods are downloaded through steam refresh Rimpy again and then go to the [releases tab](https://github.com/H0wd3n/Boomalope-Blues/releases/tag/Boom) and download the Boomalope.BLues.zip file and extract the zip to your desktop.
 - Once you have done that, head back over to Rimpy once again and find the button named import list. Click it and on the windows explorer popup go to your desktop and make sure you have the Boomalope Blues.xml file selected and then click open.![boom xml](https://user-images.githubusercontent.com/75699296/226829248-b5c53f66-00db-4e1f-98b0-9bf58a9fafa7.png)
 - After you do that Rimpy should have imported the modlist to the right column.
+## If you do not own any of the dlc these are the mods you will need to disable: Mechanoid Idle Optimization, No Missing Gene Icons, Show Fertility on Health Tab, Specialists Can Work!
+## If you do not own Biotech you will need to disable: Mechanoid Idle Optimization, No Missing Gene Icons, Show Fertility on Health Tab
+## If you do not own Ideology: Specialists Can Work!
+## If you do not own Royalty: N/A
 ### Now click save to save the modlist to your game. You're not done yet though!
 ## Converting Textures to .dds
 ### Now this part can take some time depending on your hardware.
