@@ -61,3 +61,4 @@ This step downloads the database files from Steam Rimpy needs to sort and manage
 ### WARNING!! IF YOU HAVE ANY OF THESE MODS DOWNLOADED ALREADY AND HAVE EDITED THE MODS SETTINGS IN-GAME THIS WILL OVERRIDE THOSE SETTINGS. SKIP THE MODS YOU ALREADY HAVE OR BACK UP THE XML FILES!
 - Now, in Rimpy at the top left find the button named Config Folder and drag all the .xml files in the zip you just downloaded there. After that click save once again in Rimpy.
 ##  Congrats! You have installed the modlist and everything is finished. I hope you enjoy the it!
+ - Don't worry about any errors on startup that you get it's normal for that to happen. When you are getting constant errors in-game and it is tanking your performance something is wrong
