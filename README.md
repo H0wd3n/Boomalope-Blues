@@ -4,7 +4,7 @@ Current Version: 1.0
 ![Boomalope Blues](https://user-images.githubusercontent.com/75699296/226787057-fc0180e7-78bb-4ac9-b6db-7b125cd84b7b.png)
 
 # Read me!
-- This is a modlist focused on performance and quality of life mods, No major content mods are added (sorry Combat Extended enjoyers) other than a few Vanilla Expanded mods that I feel compliment the Vanilla game well. Feel free to add/remove mods you like or dislike to the list but know that no support will be given if you do so. As the specific settings for each mod, I will provide the configs I use but feel free to tweak them yourself they shouldn't™ cause any issues. I have tweaked them to my liking and for the best performance.
+- This is a modlist focused on performance and quality of life mods, No major content mods are added (sorry Combat Extended enjoyers) other than a few Vanilla Expanded mods that I feel compliment the Vanilla game well. Feel free to add/remove mods you like or dislike to the list but know that no support will be given if you do so. As for the specific settings for each mod, I will provide the configs I use, but feel free to tweak them yourself they shouldn't™ cause any issues. I have tweaked them to my liking and for the best performance.
 
 # Install Instructions
 ## The first step is of course make sure you have rimworld installed through Steam and make sure any mods you already have are disabled.
