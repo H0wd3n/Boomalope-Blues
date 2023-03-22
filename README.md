@@ -49,7 +49,7 @@ This step downloads the database files from Steam Rimpy needs to sort and manage
 ### Now click save to save the modlist to your game. You're not done yet though!
 ## Converting Textures to .dds
 ### Now this part can take some time depending on your hardware.
-- On the right side of Rimpy there should be a button named Optimze Tex. When you click it a new window should pop up like this
+- On the right side of Rimpy, there should be a button named optimze tex. When you click it, a new window should pop up like this
 ![optimze tex](https://user-images.githubusercontent.com/75699296/226830384-3e4e1676-385f-4fa6-af4d-a4bded84d513.png)
 ### At the top make sure you read the Warming in red.
 - Next click select active (or select all if you wish to convert every mod you have isntalled that isn't part of this list) and then select the tab that says "BC7 Texeconv Compressor (GPU, high quality)". Once that is selected click convert textures. As I mentioned before this process can take time. So be patient and let it finish.
