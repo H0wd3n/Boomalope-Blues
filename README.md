@@ -36,7 +36,7 @@ This step downloads the database files from Steam Rimpy needs to sort and manage
 ## Installing Performance Fish
 ### Next step is to grab a wonderful mod named Performance fish which you can get from joining this [discord](https://discord.gg/699XPDwt8U) and going to this post [here](https://discord.com/channels/241677926855081984/917207536745218068/1035304227368599652) after joining the server.
 ![Performance download](https://user-images.githubusercontent.com/75699296/226826506-30e655f8-1bc6-4d62-8736-26cc425ba60b.png)
-- Once you have that downloaded head back over to Rimpy and click the local mods button at the top left and then extract the Performance Fish.zip mod there
+- Once you have that downloaded, head back over to Rimpy and click the local mods button at the top left and then extract the Performance Fish.zip mod there
 - After that there should be a little refresh icon in Rimpy blinking. If you click that it will refresh Rimpy and the mod Performance Fish should show up in the left column as a local mod. ![Performance Mod](https://user-images.githubusercontent.com/75699296/226827429-390bd17a-f5f1-4a8d-970c-02dafc37ccf7.png) Don't do anything with it.
 
 ## Downloading the rest of the mods
