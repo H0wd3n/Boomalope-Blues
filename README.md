@@ -7,7 +7,7 @@ Current Version: 1.0
 - This is a modlist focused on performance and quality of life mods, No major content mods are added (sorry Combat Extended enjoyers) other than a few Vanilla Expanded mods that I feel compliment the Vanilla game well. Feel free to add/remove mods you like or dislike to the list but know that no support will be given if you do so. As the specific settings for each mod, I will provide the configs I use but feel free to tweak them yourself they shouldn't™ cause any issues. I have tweaked them to my liking and for the best performance.
 
 # Install Instructions
-## The first step is of course make sure you have rimworld installed through Steam mods you already have (if any) are disabled.
+## The first step is of course make sure you have rimworld installed through Steam and make sure any mods you already have are disabled.
 After that right click the game on steam, go to properties -> local files and verify integrety of game files to make sure rimworld is installed correctly.
 
 ## Downloading the Rimworld mod manager called Rimpy. 
@@ -32,4 +32,19 @@ This step downloads the database files from steam Rimpy needs to sort and manage
 ![Rimpy itself](https://user-images.githubusercontent.com/75699296/226822946-32f6978f-1a32-4c20-a88d-320716e3531e.png)
 ### First at the top make sure Rimpy knows where your game is installed. The autodetect button should work If not you can set it manually by clicking the three dots to the right
 ![Rimpy itself](https://user-images.githubusercontent.com/75699296/226823367-6b1c3887-0482-4c29-b512-72bf408c2eb1.png)
-### Next
+
+## Installing Performance Fish
+### Next step is to grab a wonderful mod named Performance fish which you can get from joining this [discord](https://discord.gg/699XPDwt8U) and going to this post [here](https://discord.com/channels/241677926855081984/917207536745218068/1035304227368599652).
+![Performance download](https://user-images.githubusercontent.com/75699296/226826506-30e655f8-1bc6-4d62-8736-26cc425ba60b.png)
+- Once you have that downloaded head back over to Rimpy and click the local mods button at the top left and then extract the Performance Fish.zip mod there
+- After that there should be a little refresh icon in Rimpy blinking. If you click that it will refresh Rimpy and the mod Performance Fish should show up in the left column as a local mod. ![Performance Mod](https://user-images.githubusercontent.com/75699296/226827429-390bd17a-f5f1-4a8d-970c-02dafc37ccf7.png) Don't do anything with it.
+
+## Downloading the rest of the mods
+### Go to [this Steam workshop collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2950431243) and click subscribe to all. This will download the rest of the mods through steam. Once that is finished you can head to the next step.
+
+## Installing the list 
+- Now after all the mods are downloaded through steam refresh Rimpy again and then go to the [releases tab](https://github.com/H0wd3n/Boomalope-Blues/releases/tag/Boom) and download the Boomalope.BLues.zip file and extract the zip to your desktop.
+- Once you have done that head back over to Rimpy once again and find the button named import list. Click it and on the windows explorer popup go to your desktop and make sure you have the Boomalope Blues.xml file selected and then click open.![boom xml](https://user-images.githubusercontent.com/75699296/226829248-b5c53f66-00db-4e1f-98b0-9bf58a9fafa7.png)
+- After you do that Rimpy should have imported the modlist to the right column.
+- Now click save to save the modlist to your game. You're not done yet though!
+## Converting Textures to .dds
