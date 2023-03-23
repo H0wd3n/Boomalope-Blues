@@ -37,7 +37,7 @@ This step downloads the database files from Steam Rimpy needs to sort and manage
 
 ## Installing the list 
 - Now, after all the mods are downloaded through steam refresh Rimpy again and then go to the [releases tab](https://github.com/H0wd3n/Boomalope-Blues/releases/tag/Boom) and download the Boomalope.BLues.zip file and extract the zip to your desktop.
-- Once you have done that, head back over to Rimpy once again and find the button named import list. Click it and on the windows explorer popup go to your desktop and make sure you have the Boomalope Blues.xml file selected and then click open.![boom xml](https://user-images.githubusercontent.com/75699296/226829248-b5c53f66-00db-4e1f-98b0-9bf58a9fafa7.png)
+- Once you have done that, head back over to Rimpy once again and find the button named "import list". Click it and on the windows explorer popup go to your desktop and make sure you have the Boomalope Blues.xml file selected and then click open.![boom xml](https://user-images.githubusercontent.com/75699296/226829248-b5c53f66-00db-4e1f-98b0-9bf58a9fafa7.png)
 - After you do that Rimpy should have imported the modlist to the right column.
 ## If you do not own any of the dlc these are the mods you will need to disable: Mechanoid Idle Optimization, No Missing Gene Icons, Show Fertility on Health Tab, Specialists Can Work!
 ## If you do not own Biotech you will need to disable: Mechanoid Idle Optimization, No Missing Gene Icons, Show Fertility on Health Tab
