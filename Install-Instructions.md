@@ -43,7 +43,7 @@ This step downloads the database files from Steam Rimpy needs to sort and manage
  -  If you do not own Biotech you will need to disable: Mechanoid Idle Optimization, No Missing Gene Icons, Show Fertility on Health Tab
  -  If you do not own Ideology: Specialists Can Work!
  -  If you do not own Royalty: N/A
-### Now click sort and then save to save the modlist to your game. You're not done yet though!
+### Now click sort and then save. You're not done yet though!
 ## Converting Textures to .dds
 ### Now this part can take some time depending on your hardware.
 - On the right side of Rimpy, there should be a button named optimze tex. When you click it, a new window should pop up like this
