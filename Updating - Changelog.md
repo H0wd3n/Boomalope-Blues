@@ -1,4 +1,4 @@
-· [Requirements](https://github.com/H0wd3n/Boomalope-Blues/blob/main/Requirements.md) - [Install Instructions](https://github.com/H0wd3n/Boomalope-Blues/blob/main/Install-Instructions.md) - [Readme](https://github.com/H0wd3n/Boomalope-Blues/blob/main/README.md) - [Changelog](https://github.com/H0wd3n/Boomalope-Blues/blob/main/changelog.md) - [Steam Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2950431243)·
+· [Requirements](https://github.com/H0wd3n/Boomalope-Blues/blob/main/Requirements.md) - [Install Instructions](https://github.com/H0wd3n/Boomalope-Blues/blob/main/Install-Instructions.md) - [Readme](https://github.com/H0wd3n/Boomalope-Blues/blob/main/README.md) - [Changelog/Updating](https://github.com/H0wd3n/Boomalope-Blues/blob/main/Updating%20-%20Changelog.md) - [Steam Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2950431243)·
 
 # Updating the list
  - Whenever a update is released I will specify if the update is save safe or not. 
