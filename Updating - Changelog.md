@@ -17,6 +17,7 @@
  ## Removed: 
  ## Changed:
 - Updated the Changelog to include updating instructions
+- Updated the Readme to tell you about cherry picker
 
 # 3/22/2023 1.01 Release
  ## Added:
