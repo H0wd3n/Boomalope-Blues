@@ -58,5 +58,5 @@ This step downloads the database files from Steam Rimpy needs to sort and manage
 ### Warning!! If you have any of these mods downloaded already and have edited the mods settings in-game this will override those settings. Skip the mods you already have or back up the xml files!
 - Now, in Rimpy at the top left find the button named "Config Folder" and drag all the .xml files in the zip you just downloaded there. After that click the refresh icon, sort, and save once again in Rimpy.
 ##  Congrats! You have installed the modlist and everything is finished. I hope you enjoy it!
- - Don't worry about getting a few errors on startup. Tt's mostly normal for that to happen unless you see a giant wall of red text then something broke.Also if you are getting constant errors in-game and it is tanking your performance something is wrong.
+ - Don't worry about getting a few errors on startup. It's mostly normal for that to happen unless you see a giant wall of red text then something broke.Also if you are getting constant errors in-game and it is tanking your performance something is wrong.
  - Last thing, if you ever for whatever reason verify the games files on Steam after you finish this list you will have to do the texture conversion step again!
