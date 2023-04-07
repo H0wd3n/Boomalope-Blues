@@ -8,6 +8,7 @@
 
 # 4/6/2023 1.2 Release
 ## Should be save safe but if you encounter any erros please notify me. This update will also require you to run the .dds texture conversion again for the new texture mods!
+## This update also requires you to import the new configs! 
  ## Added:
  - AI Upscaled Textures - Core
  - AI Upscaled Textures - Mods
