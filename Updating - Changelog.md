@@ -7,8 +7,7 @@
  - Last step is to make sure to run the texture conversion tool every time a new mod is added just in case it adds new textures. Don't worry though it will only have to convert new textures if you have already installed the list before so it won't take as long!
 
 # 4/6/2023 1.2 Release
-## Should be save safe but if you encounter any erros please notify me. This update will also require you to run the .dds texture conversion again for the new texture mods!
-## This update also requires you to import the new configs! 
+## Should be save safe but if you encounter any game breaking erros please notify me. This update will also require you to run the .dds texture conversion again for the new texture mods! This update also requires you to import the new configs! 
  ## Added:
  - AI Upscaled Textures - Core
  - AI Upscaled Textures - Mods
