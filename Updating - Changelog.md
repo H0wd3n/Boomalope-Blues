@@ -6,6 +6,20 @@
  - After that you will need to open Rimpy and import the new list in [Releases](https://github.com/H0wd3n/Boomalope-Blues/releases) or just enable the mods that were downloaded. Don't forget to import the new configs if there are new ones and always make sure to click sort and save!
  - Last step is to make sure to run the texture conversion tool every time a new mod is added just in case it adds new textures. Don't worry though it will only have to convert new textures if you have already installed the list before so it won't take as long!
 
+# 4/19/2023 1.3 Release
+## This update is not save compatible! Use the 1.2 Release if you wish to keep your colony!
+ ## Added:
+ - Floors Are (Almost) Worthless
+ - Food Poisoning Stack Fix (Continued)
+ - Projectile Bullet Retexture
+ - Pawn Name Variety
+ ## Removed:
+ - Vanilla Furniture Expanded - Art 
+ - AI Upscaled Textures - Mods (Hardly made any difference) 
+ - Vanilla Backstories Expanded (Too many grammar issues)
+ ## Changed:
+ - Redid the sorting of the list
+ 
 # 4/6/2023 1.2 Release
 ## Should be save safe but if you encounter any game breaking erros please notify me. This update will also require you to run the .dds texture conversion again for the new texture mods! This update also requires you to import the new configs! 
  ## Added:
