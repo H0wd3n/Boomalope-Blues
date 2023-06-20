@@ -6,6 +6,29 @@
  - After that you will need to open Rimpy and import the new list in [Releases](https://github.com/H0wd3n/Boomalope-Blues/releases) or just enable the mods that were downloaded. Don't forget to import the new configs if there are new ones and always make sure to click sort and save!
  - Last step is to make sure to run the texture conversion tool every time a new mod is added just in case it adds new textures. Don't worry though it will only have to convert new textures if you have already installed the list before so it won't take as long!
 
+# 6/20/2023 1.4 Release: The Delayoning
+## This Update is not save safe but its worth it I swear
+ ## Added:
+ - UI Retexture
+ - Door Clearance
+ - Prepatcher
+ - Fishery
+ - Food Poisoning Stack Fix (Continued)
+ - Muzzle Flash
+ - Not OVerhead Meal
+ - Raider Info
+ - Recycle This
+ - Recycle This Retexture
+ - HRK Vanilla Expanded Extra Embrasures
+ ## Removed:
+ - Don't Block Door
+ - Quality Rebuilder Retexture
+ - Vanilla Funrniture Expanded - Farming Module
+ - Vanilla Funrniture Expanded - Medical Furniture
+ ## Changed:
+ - Added The Performance Fish ZIP to releases with permission from the mod author (Thanks Bradson)
+ - Resorted the list
+
 # 4/19/2023 1.3 Release
 ## This update is not save compatible! Use the 1.2 Release if you wish to keep your colony!
  ## Added:
