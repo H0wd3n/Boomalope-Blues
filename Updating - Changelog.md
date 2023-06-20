@@ -7,7 +7,7 @@
  - Last step is to make sure to run the texture conversion tool every time a new mod is added just in case it adds new textures. Don't worry though it will only have to convert new textures if you have already installed the list before so it won't take as long!
 
 # 6/20/2023 1.4 Release: The Delayoning
-## This Update is not save safe but its worth it I swear
+## This Update is not save safe but its worth it I swear. Also Perfomance Fish and Fishery are not included in the zip so it will save you some time! ( Thanks again Bradson the mod author)
  ## Added:
  - UI Retexture
  - Door Clearance
