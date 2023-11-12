@@ -8,7 +8,7 @@
 
 # 11/12/2023 1.5 Release: The I got busy update
 ##This update is not save safe. So finish any colonies you have going before updating!
- ##Added:
+ ## Added:
  - Clean Textures Less Glare
  - Colonist Bar Below Dev Buttons
  - Compact Work Tab
@@ -18,13 +18,13 @@
  - Organs are Labelled
  - Variable Room Sizes
  - Boomalope Blues 1.5 Auto Mod Config
- ##Removed:
+ ## Removed:
  - FSF Complex Jobs (Legacy Version)
  - Realistic Rooms Rewritten
  - Trade UI Revised
  - Bionic Icons
  - Rimthemes
- ##Changed: 
+ ## Changed: 
  - Resorted the list
 
 # 6/20/2023 1.4 Release: The Delayoning
