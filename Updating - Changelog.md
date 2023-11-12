@@ -7,7 +7,7 @@
  - Last step is to make sure to run the texture conversion tool every time a new mod is added just in case it adds new textures. Don't worry though it will only have to convert new textures if you have already installed the list before so it won't take as long!
 
 # 11/12/2023 1.5 Release: The I got busy update
-##This update is not save safe. So finish any colonies you have going before updating!
+## This update is not save safe. So finish any colonies you have going before updating!
  ## Added:
  - Clean Textures Less Glare
  - Colonist Bar Below Dev Buttons
