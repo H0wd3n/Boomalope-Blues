@@ -17,7 +17,6 @@
  - Many Jobs
  - Organs are Labelled
  - Variable Room Sizes
- - Boomalope Blues 1.5 Auto Mod Config
  ## Removed:
  - FSF Complex Jobs (Legacy Version)
  - Realistic Rooms Rewritten
