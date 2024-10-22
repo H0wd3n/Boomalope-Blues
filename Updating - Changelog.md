@@ -9,9 +9,9 @@
 # 10/22/2024 1.6 Release: The Big Rimbowski
 ## This update is 100% not save safe
  ## Added:
- - Too many
+ - Too many new mods to list
  ## Removed:
- - Too many
+ - Too many mods got removed
  ## Changed:
  - Changed mod managers from Rimpy to Rimsort
  - Made it easier to import the list
