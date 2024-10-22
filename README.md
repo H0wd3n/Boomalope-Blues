@@ -1,5 +1,5 @@
 # Boomalope Blues
-## Current Version: 1.5
+## Current Version: 1.6
 · [Requirements](https://github.com/H0wd3n/Boomalope-Blues/blob/main/Requirements.md) - [Install Instructions](https://github.com/H0wd3n/Boomalope-Blues/blob/main/Install-Instructions.md) - [Readme](https://github.com/H0wd3n/Boomalope-Blues/blob/main/README.md) - [Changelog/Updating](https://github.com/H0wd3n/Boomalope-Blues/blob/main/Updating%20-%20Changelog.md) - [Steam Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2950431243) ·
 
 ![BB](https://user-images.githubusercontent.com/75699296/227034836-9c82db9c-cf2b-439e-bd17-44eb2a3317e7.png)
@@ -11,7 +11,7 @@
 # Mods you need to know about
 
 - [Clean Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2865361569&searchtext=clean). Feel free to disable this mod at any time if you dislike the new textures for the dirt etc. It is just textures so it is save safe and can be removed at any time.
-- [Cherry Picker](https://steamcommunity.com/sharedfiles/filedetails/?id=2633276599). I highly recomend going to the Steam workshop page and reading what this mod does as it lets you remove certain parts of mods like new items or recipies if you wish to do so.
+- ~~[Cherry Picker](https://steamcommunity.com/sharedfiles/filedetails/?id=2633276599). I highly recomend going to the Steam workshop page and reading what this mod does as it lets you remove certain parts of mods like new items or recipies if you wish to do so.~~ (Not Currently Updated for Rimworld 1.5)
 
 # Mods you should avoid
 
