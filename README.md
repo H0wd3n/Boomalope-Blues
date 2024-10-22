@@ -5,7 +5,7 @@
 ![BB](https://user-images.githubusercontent.com/75699296/227034836-9c82db9c-cf2b-439e-bd17-44eb2a3317e7.png)
 
 # Read me! Or Else...
-- This is a modlist for Rimworld focused on performance and quality of life mods, No major content mods are added (sorry Combat Extended enjoyers) other than a few Vanilla Expanded mods that I feel compliment the Vanilla game well. Feel free to add/remove mods you like or dislike to the list but know that no support will be given if you do so. As for the specific settings for each mod, I will provide the configs I use, but feel free to tweak them yourself. They shouldn't™ cause any issues. I have tweaked them to my liking and for the best performance.
+- This is a modlist for Rimworld focused on performance and quality of life mods, No major content mods are added (sorry Combat Extended enjoyers) other than a few Vanilla Expanded mods that I feel compliment the Vanilla game well. Feel free to add/remove mods you like or dislike to the list but know that no support will be given if you do so. As for the specific settings for each mod, You can go through the mod options and tweak them how you want too. The default mod opitons shouldn't™ cause any problems.
 - This list will be updated/edited when I have the time or when Rimworld gets a major update (if I remember)
 
 # Mods you need to know about
