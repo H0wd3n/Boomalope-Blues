@@ -6,7 +6,7 @@
  - After that you will need to open Rimpy and import the new list in [Releases](https://github.com/H0wd3n/Boomalope-Blues/releases) or just enable the mods that were downloaded. Don't forget to import the new configs if there are new ones and always make sure to click sort and save!
  - Last step is to make sure to run the texture conversion tool every time a new mod is added just in case it adds new textures. Don't worry though it will only have to convert new textures if you have already installed the list before so it won't take as long!
 
-# 10/22/2024 1.6 Release: The Big Rimbowski
+# 10/22/2024 1.6 Release: The Big Rimbowski (Sorry it took so long)
 ## This update is 100% not save safe
  ## Added:
  - Too many new mods to list
