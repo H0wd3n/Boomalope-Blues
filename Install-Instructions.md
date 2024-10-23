@@ -25,7 +25,7 @@
 ## Installing Performance Fish and Fishery - These are the only two local mods you will need to install.
 - Performance Fish can be downloaded here: https://github.com/bbradson/Performance-Fish. Click the green code button at the top and then click "Download Zip".
 - Fishery can be downloaded here: https://github.com/bbradson/Fishery. Click the green code button at the top and then click "Download Zip".
-- After those are both downloaded go to the local mods folder for Rimworld and extract them both there. If you have Rimsort open click the resfresh button for the two new mods to show up.
+- After those are both downloaded go to the local mods folder for Rimworld and extract them both there. If you have Rimsort open click the refresh button for the two new mods to show up.
 
 ## Downloading the rest of the mods
 - Go to [this Steam workshop collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2950431243) and click subscribe to all. This will download the rest of the mods through steam. Once that is finished, you can head to the next step.
