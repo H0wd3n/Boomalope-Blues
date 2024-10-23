@@ -2,7 +2,7 @@
 # Install Instructions
 ## The first step is to make sure you have Rimworld installed through Steam and make sure any mods you already have are disabled.
 - After that right click the game on steam, go to properties -> local files and verify integrity of game files to make sure Rimworld is installed correctly.
--Once the file verification is finished launch the game through steam and get to the main menu and then close the game.
+- Once the file verification is finished launch the game through steam and get to the main menu and then close the game.
 
 ## Downloading and installing the Rimworld mod manager called Rimsort. 
 - This step is non-negotiable as it is how I mod Rimworld and it provides a way to edit your modlist externally without loading the game every time you make a change, has a nice interface, allows you to convert textures from mods to the .dds format which the game has a better time loading, save modlists incase you want to back them up and have multiple lists, and the most important part is sorting the mod load order efficiently with one button.
