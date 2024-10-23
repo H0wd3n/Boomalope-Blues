@@ -6,7 +6,7 @@
 
 ## Downloading and installing the Rimworld mod manager called Rimsort. 
 - This step is non-negotiable as it is how I mod Rimworld and it provides a way to edit your modlist externally without loading the game every time you make a change, has a nice interface, allows you to convert textures from mods to the .dds format which the game has a better time loading, save modlists incase you want to back them up and have multiple lists, and the most important part is sorting the mod load order efficiently with one button.
-- You can download it [here]([https://github.com/rimpy-custom/RimPy/releases/tag/1.2.6.28](https://github.com/RimSort/RimSort)). Make sure you grab RimSort-v1.0.10-Windows_x86_64.zip if you are on windows.
+- You can download it [here](https://github.com/RimSort/RimSort). Make sure you grab RimSort-v1.0.10-Windows_x86_64.zip if you are on windows.
 - Once you have it downloaded make a folder in a place of your choosing and extract the contents using 7zip or whatever other program you use for zip files. You can delete the original zip after extracting if you wish.
 
 ## Using Rimsort
