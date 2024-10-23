@@ -12,15 +12,14 @@
 ## Using Rimsort
 - Now from the folder you extracted Rimsort find the exe named Rimsort.exe and launch it. (I recommend creating a shortcut wherever you prefer to launch it quickly)
 - After launching the program for the first time it will ask you to setup the path of where the game is installed and the config.
-- The game is where it is currently instealled through Steam and the config location is in: C:\Users\*Your user name*\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Config
-- Go ahead and setup the Steam mods location which should be: *Drive rimworld is installed on*:\SteamLibrary\steamapps\workshop\content\294100
-- Lastly you need to setup the local mods location which is in: *Drive rimworld is installed on*:\SteamLibrary\steamapps\common\RimWorld\Mods
+- The game location is where it is currently installed through Steam.
+- The config location is in: C:\Users\*Your user name*\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Config
+- The Steam mods location should be: *Drive rimworld is installed on*:\SteamLibrary\steamapps\workshop\content\294100
+- Lastly you The local mods location should be: *Drive rimworld is installed on*:\SteamLibrary\steamapps\common\RimWorld\Mods
+- You can use autodetect but sometimes it does not always work.
 
-## Installing Performance Fish - Do not go to this discord to report any issues with this list or mods! You are only joining to download this mod!
-### Next step is to grab a wonderful mod named Performance fish which you can get from joining this [discord](https://discord.gg/699XPDwt8U) and going to this post [here](https://discord.com/channels/241677926855081984/917207536745218068/1035304227368599652) after joining the server. If you cannot find the Zip file to download by the user Bradson, head over to the channel named fixlist and search for the latest Performance-Fish.zip posted.
-![Performance download](https://user-images.githubusercontent.com/75699296/226826506-30e655f8-1bc6-4d62-8736-26cc425ba60b.png)
-- Once you have that downloaded, head back over to Rimpy and click the local mods button at the top left and then extract the Performance Fish.zip mod there
-- After that, there should be a little refresh icon in Rimpy blinking. If you click that it will refresh Rimpy and the mod Performance Fish should show up in the left column as a local mod. ![Performance Mod](https://user-images.githubusercontent.com/75699296/226827429-390bd17a-f5f1-4a8d-970c-02dafc37ccf7.png) Don't do anything with it.
+## Installing Performance Fish and Fishery
+- These are the only two local mods you will need to install
 
 ## Downloading the rest of the mods
 ### Go to [this Steam workshop collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2950431243) and click subscribe to all. This will download the rest of the mods through steam. Once that is finished, you can head to the next step.
