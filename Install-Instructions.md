@@ -18,8 +18,8 @@
 - Lastly you The local mods location should be: *Drive rimworld is installed on*:\SteamLibrary\steamapps\common\RimWorld\Mods
 - You can use autodetect but sometimes it does not always work.
 
-## Installing Performance Fish and Fishery
-- These are the only two local mods you will need to install
+## Installing Performance Fish and Fishery - These are the only two local mods you will need to install
+- Performance Fish can be downloaded here: https://github.com/bbradson/Performance-Fish
 
 ## Downloading the rest of the mods
 ### Go to [this Steam workshop collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2950431243) and click subscribe to all. This will download the rest of the mods through steam. Once that is finished, you can head to the next step.
