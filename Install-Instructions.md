@@ -11,10 +11,10 @@
 
 ## Using Rimsort
 - Now from the folder you extracted Rimsort find the exe named Rimsort.exe and launch it. (I recommend creating a shortcut wherever you prefer to launch it quickly)
--
-
-### First, at the top make sure Rimpy knows where your game is installed. The autodetect button should work. If not you can set it manually by clicking the three dots to the right.
-![Rimpy itself](https://user-images.githubusercontent.com/75699296/226823367-6b1c3887-0482-4c29-b512-72bf408c2eb1.png)
+- After launching the program for the first time it will ask you to setup the path of where the game is installed and the config.
+- The game is where it is currently instealled through Steam and the config location is in: C:\Users\*Your user name*\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Config
+- Go ahead and setup the Steam mods location which should be: *Drive rimworld is installed on*:\SteamLibrary\steamapps\workshop\content\294100
+- Lastly you need to setup the local mods location which is in: *Drive rimworld is installed on*:\SteamLibrary\steamapps\common\RimWorld\Mods
 
 ## Installing Performance Fish - Do not go to this discord to report any issues with this list or mods! You are only joining to download this mod!
 ### Next step is to grab a wonderful mod named Performance fish which you can get from joining this [discord](https://discord.gg/699XPDwt8U) and going to this post [here](https://discord.com/channels/241677926855081984/917207536745218068/1035304227368599652) after joining the server. If you cannot find the Zip file to download by the user Bradson, head over to the channel named fixlist and search for the latest Performance-Fish.zip posted.
