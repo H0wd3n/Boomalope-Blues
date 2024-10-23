@@ -35,6 +35,7 @@
  - Rimthemes
  ## Changed: 
  - Resorted the list
+ - Overhauled the entire install instructions tab
 
 # 6/20/2023 1.4 Release: The Delayoning
 ## This Update is not save safe but its worth it I swear. Also Perfomance Fish and Fishery are now included in the zip so it will save you some time! ( Thanks again Bradson the mod author)
