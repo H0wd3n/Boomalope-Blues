@@ -17,35 +17,36 @@
 - The Steam mods location should be: *Drive rimworld is installed on*:\SteamLibrary\steamapps\workshop\content\294100
 - Lastly you The local mods location should be: *Drive rimworld is installed on*:\SteamLibrary\steamapps\common\RimWorld\Mods
 - You can use autodetect but sometimes it does not always work.
+- If Rimsorty says its undable to find SteamCMD click yes to set it up.
+- Next at the top of Rimsort click the file tab and then click settings. Next click the databases tab and then here you need to click the option for Github on both and then click download. If it asks you to install git go ahead and click yes to open up the download page and install it. 
+- After that restart Rimsort. 
+- Last, go back to the databases tab and then click download button. If you ever open up Rimsort and it says something about the database being out of date do this step again and click update existing.
 
-## Installing Performance Fish and Fishery - These are the only two local mods you will need to install
-- Performance Fish can be downloaded here: https://github.com/bbradson/Performance-Fish
+## Installing Performance Fish and Fishery - These are the only two local mods you will need to install.
+- Performance Fish can be downloaded here: https://github.com/bbradson/Performance-Fish. Click the green code button at the top and then click "Download Zip".
+- Fishery can be downloaded here: https://github.com/bbradson/Fishery. Click the green code button at the top and then click "Download Zip".
+- After those are both downloaded go to the local mods folder for Rimworld and extract them both there. If you have Rimsort open click the resfresh button for the two new mods to show up.
 
 ## Downloading the rest of the mods
-### Go to [this Steam workshop collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2950431243) and click subscribe to all. This will download the rest of the mods through steam. Once that is finished, you can head to the next step.
+- Go to [this Steam workshop collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2950431243) and click subscribe to all. This will download the rest of the mods through steam. Once that is finished, you can head to the next step.
 
 ## Installing the list 
-- Now, after all the mods are downloaded through steam refresh Rimpy again and then go to the [releases tab](https://github.com/H0wd3n/Boomalope-Blues/releases/tag/Boom) and download the Boomalope.BLues.zip file and extract the zip to your desktop.
-- Once you have done that, head back over to Rimpy once again and find the button named "import list". Click it and on the windows explorer popup go to your desktop and make sure you have the Boomalope Blues.xml file selected and then click open.![boom xml](https://user-images.githubusercontent.com/75699296/226829248-b5c53f66-00db-4e1f-98b0-9bf58a9fafa7.png)
-- After you do that Rimpy should have imported the modlist to the right column.
-## If you do not own any of the dlc and just the base game, these are the mods you will need to disable: Mechanoid Idle Optimization, No Missing Gene Icons, Show Fertility on Health Tab, Specialists Can Work!
- -  If you do not own Biotech you will need to disable: Mechanoid Idle Optimization, No Missing Gene Icons, Show Fertility on Health Tab
- -  If you do not own Ideology: Specialists Can Work!
- -  If you do not own Royalty: N/A
+- Now, after all the mods are downloaded through steam refresh Rimsort again and then click File at the top -> Import -> From Rentry.co. Now paste this link in the text box: https://rentry.co/but5hwau/
+- Don't worry about any warnings those are alright. If there are any errors you may have done something wrong.
+- Now all the mods should have been sorted and be in the Active tab( the left). Click sort again just to make sure the list is sorted correctly.
+
+## If you do not own any of the dlc and just the base game you will need to disable the mods that require the dlc to work.
+
 ### Now click sort and then save. You're not done yet though!
 ## Converting Textures to .dds
 ### Now this part can take some time depending on your hardware.
-- On the right side of Rimpy, there should be a button named optimze tex. When you click it, a new window should pop up like this
-![optimze tex](https://user-images.githubusercontent.com/75699296/226830384-3e4e1676-385f-4fa6-af4d-a4bded84d513.png)
-### At the top make sure you read the Warning in red.
-- Next click select active (or select all if you wish to convert every mod you have installed that isn't part of this list) and then select the tab that says "BC7 Texeconv Compressor (GPU, high quality)". Once that is selected, click convert textures. As I mentioned before this process can take time, so be patient and let it finish.
-- Once it has finished you will see a box that says "Textures were successfully converted". Click OK and close out that window.
-- Click the blinking refresh symbol once again and then click save.
+- On the top of Rimsort click File -> Settings -> todds. On this page make sure the quality preset is set to "Optimized - Recommended for Rimworld". and then click the option that says Optimize active mods only and then click ok.
+### Do know this step will probably use 100% of your CPU and cause it to get very warm, don't freak out just let it do its thing.
+- As I mentioned before this process can take time, so be patient and let it finish.
+- Now click the Textures tab at the top of Rimsort and then click "Optimize textures".
+- Once it has finished you will see "Subprocess completed." You can now click the X to close that tab.
+- Click the blinking refresh symbol once again and then click  sort, and then save.
 
-## Installing the mod's config files
-- Last step! Head back over to the [release tab](https://github.com/H0wd3n/Boomalope-Blues/releases/tag/Boom) again and download Configs.zip
-### Warning!! If you have any of these mods downloaded already and have edited the mods settings in-game this will override those settings. Skip the mods you already have or back up the xml files!
-- Now, in Rimpy at the top left find the button named "Config Folder" and drag all the .xml files in the zip you just downloaded there. After that click the refresh icon, sort, and save once again in Rimpy.
 ##  Congrats! You have installed the modlist and everything is finished. I hope you enjoy it!
- - Don't worry about getting a few errors on startup. It's mostly normal for that to happen unless you see a giant wall of red text then something broke.Also if you are getting constant errors in-game and it is tanking your performance something is wrong.
+ - Don't worry about getting a few errors on startup. It's mostly normal for that to happen unless you see a giant wall of red text then something broke. Also if you are getting constant errors in-game and it is tanking your performance something is wrong.
  - Last thing, if you ever for whatever reason verify the games files on Steam after you finish this list you will have to do the texture conversion step again!
