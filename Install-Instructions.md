@@ -11,8 +11,8 @@
 
 ## Using Rimsort
 - Now from the folder you extracted Rimsort find the exe named Rimsort.exe and launch it. (I recommend creating a shortcut wherever you prefer to launch it quickly)
-### Once it is open, it will look like this. Do not worry about any warnings or errors. (Depending if you have any mods already or not it may differ slightly from my install)
-![Rimpy itself](https://user-images.githubusercontent.com/75699296/226822946-32f6978f-1a32-4c20-a88d-320716e3531e.png)
+-
+
 ### First, at the top make sure Rimpy knows where your game is installed. The autodetect button should work. If not you can set it manually by clicking the three dots to the right.
 ![Rimpy itself](https://user-images.githubusercontent.com/75699296/226823367-6b1c3887-0482-4c29-b512-72bf408c2eb1.png)
 
