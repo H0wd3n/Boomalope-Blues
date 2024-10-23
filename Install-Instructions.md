@@ -15,7 +15,7 @@
 - The game location is where it is currently installed through Steam.
 - The config location is in: C:\Users\ *Your user name*\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Config
 - The Steam mods location should be: *Drive rimworld is installed on*:\SteamLibrary\steamapps\workshop\content\294100
-- Lastly you The local mods location should be: *Drive rimworld is installed on*:\SteamLibrary\steamapps\common\RimWorld\Mods
+- Lastly you the local mods location should be: *Drive rimworld is installed on*:\SteamLibrary\steamapps\common\RimWorld\Mods
 - You can use autodetect but sometimes it does not always work.
 - If Rimsort says it's unable to find SteamCMD click yes to set it up.
 - Next at the top of Rimsort click the file tab and then click settings. Next click the databases tab and then here you need to click the option for Github on both and then click download. If it asks you to install git go ahead and click yes to open up the download page and install it. 
