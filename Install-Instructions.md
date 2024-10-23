@@ -13,7 +13,7 @@
 - Now from the folder you extracted Rimsort find the exe named Rimsort.exe and launch it. (I recommend creating a shortcut wherever you prefer to launch it quickly)
 - After launching the program for the first time it will ask you to setup the path of where the game is installed and the config.
 - The game location is where it is currently installed through Steam.
-- The config location is in: C:\Users\*Your user name*\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Config
+- The config location is in: C:\Users\ *Your user name*\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Config
 - The Steam mods location should be: *Drive rimworld is installed on*:\SteamLibrary\steamapps\workshop\content\294100
 - Lastly you The local mods location should be: *Drive rimworld is installed on*:\SteamLibrary\steamapps\common\RimWorld\Mods
 - You can use autodetect but sometimes it does not always work.
