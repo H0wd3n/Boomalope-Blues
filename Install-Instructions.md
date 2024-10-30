@@ -33,7 +33,7 @@
 ## Installing the list 
 - Now, after all the mods are downloaded through steam refresh Rimsort again and then click File at the top -> Import -> From Rentry.co. Now paste this link in the text box: https://rentry.co/but5hwau/
 - Don't worry about any warnings those are alright. If there are any errors you may have done something wrong.
-- Now all the mods should have been sorted and be in the Active tab( the left). Click sort again just to make sure the list is sorted correctly.
+- Now all the mods should have been sorted and be in the Active tab(the left). Click sort again just to make sure the list is sorted correctly.
 
 ## If you do not own any of the dlc and just the base game you will need to disable the mods that require the dlc to work.
 
