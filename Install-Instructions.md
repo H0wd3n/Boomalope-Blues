@@ -41,7 +41,7 @@
 ## Converting Textures to .dds
 ### Now this part can take some time depending on your hardware.
 - On the top of Rimsort click File -> Settings -> [todds](https://toddhoward.sexy/). On this page make sure the quality preset is set to "Optimized - Recommended for Rimworld". and then click the option that says Optimize active mods only and then click ok.
-### Do know this step will probably use 100% of your CPU and cause it to get very warm, don't freak out just let it do its thing.
+### This step will probably use 100% of your CPU and cause it to get very warm, don't freak out just let it do its thing.
 - As I mentioned before this process can take time, so be patient and let it finish.
 - Now click the Textures tab at the top of Rimsort and then click "Optimize textures".
 - Once it has finished you will see "Subprocess completed." You can now click the X to close that tab.
