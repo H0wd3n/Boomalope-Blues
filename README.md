@@ -11,7 +11,7 @@
 # Mods you need to know about
 
 - [Clean Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2865361569&searchtext=clea). Feel free to disable this mod at any time if you dislike the new textures for the dirt etc. It is just textures so it is save safe and can be removed at any time.
-- [Cherry Picker](https://steamcommunity.com/sharedfiles/filedetails/?id=3230046902). I highly recomend going to the Steam workshop page and reading what this mod does as it lets you remove certain parts of mods like new items or recipies if you wish to do so.
+- [Cherry Picker](https://steamcommunity.com/sharedfiles/filedetails/?id=3230046902). I highly recomend going to the Steam workshop page and reading what this mod does as it lets you remove certain parts of mods like new items or recipies that you do not want that is included in a mod.
 
 # Mods you should avoid
 
