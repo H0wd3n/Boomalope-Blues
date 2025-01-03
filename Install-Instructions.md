@@ -37,7 +37,7 @@
 
 ## If you do not own any of the dlc and just the base game you will need to disable the mods that require the dlc to work.
 
-### Now click sort and then save. You're not done yet though!
+### Now click sort and then save. You're not done yet!
 ## Converting Textures to .dds
 ### Now this part can take some time depending on your hardware.
 - On the top of Rimsort click File -> Settings -> [todds](https://toddhoward.sexy/). On this page make sure the quality preset is set to "Optimized - Recommended for Rimworld". and then click the option that says Optimize active mods only and then click ok.
