@@ -10,8 +10,8 @@
 
 # Mods you need to know about
 
-- [Clean Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2865361569&searchtext=clean). Feel free to disable this mod at any time if you dislike the new textures for the dirt etc. It is just textures so it is save safe and can be removed at any time.
-- ~~[Cherry Picker](https://steamcommunity.com/sharedfiles/filedetails/?id=2633276599). I highly recomend going to the Steam workshop page and reading what this mod does as it lets you remove certain parts of mods like new items or recipies if you wish to do so.~~ (Not Currently Updated for Rimworld 1.5)
+- [Clean Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2865361569&searchtext=clea). Feel free to disable this mod at any time if you dislike the new textures for the dirt etc. It is just textures so it is save safe and can be removed at any time.
+- [Cherry Picker](https://steamcommunity.com/sharedfiles/filedetails/?id=3230046902). I highly recomend going to the Steam workshop page and reading what this mod does as it lets you remove certain parts of mods like new items or recipies if you wish to do so.
 
 # Mods you should avoid
 
