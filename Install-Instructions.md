@@ -48,5 +48,5 @@
 - Click the blinking refresh symbol once again and then click  sort, and then save.
 
 ##  Congrats! You have installed the modlist and everything is finished. I hope you enjoy it!
- - Don't worry about getting a few errors on startup. It's mostly normal for that to happen unless you see a giant wall of red text then something broke. Also if you are getting constant errors in-game and it is tanking your performance something is wrong.
+ - Don't worry about getting a few errors on startup. It's mostly normal for that to happen unless you see a giant wall of red text then something broke. If you are getting constant errors in-game and it is tanking your performance something is wrong.
  - Last thing, if you ever for whatever reason verify the games files on Steam after you finish this list you will have to do the texture conversion step again!
